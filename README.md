@@ -1,8 +1,8 @@
 # App-Echocities
-Skills and Tools Used:
-
 Introduction:
 Echocities is an Android app designed to explore city data through heatmaps. It provides an interactive visualization, allowing users to grasp patterns, densities, and trends related to various cities.
+
+Skills and Tools Used:
 
 Kotlin Language: The project was primarily developed in Kotlin.
 AndroidX: Libraries for backward compatibility and support in older Android versions.
